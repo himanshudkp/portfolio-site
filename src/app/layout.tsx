@@ -17,6 +17,17 @@ export const metadata: Metadata = {
   description:
     "Showcasing my projects, skills, and experience as a Frontend / Full Stack Developer (React/Next.js).",
   authors: [{ name: "Himanshu Pandey", url: "https://himanshudkp.com" }],
+  keywords: [
+    "Himanshu Pandey",
+    "Portfolio",
+    "Frontend Developer",
+    "Full Stack Developer",
+    "React",
+    "Next.js",
+    "JavaScript",
+    "TypeScript",
+    "Web Development",
+  ],
 };
 
 export default function RootLayout({
